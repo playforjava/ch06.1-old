@@ -1,1 +1,1 @@
-Sample source code for chapter 6.1 Play2 for Java
+## Chapter 6 sample source code - List warehouse items 
